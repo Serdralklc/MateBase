@@ -130,7 +130,7 @@ export default function App() {
         <span className="header-logo">🏗️</span>
         <div>
           <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
-            <span className="header-title">Yapı Malzemeleri Danışmanı</span>
+            <span className="header-title">MateBase</span>
             <span className="badge">{tumMalzemeler.length} malzeme</span>
           </div>
           <div className="header-sub">
